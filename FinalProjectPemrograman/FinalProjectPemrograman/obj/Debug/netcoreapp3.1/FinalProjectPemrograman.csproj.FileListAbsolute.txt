@@ -1,0 +1,25 @@
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/bin/Debug/netcoreapp3.1/FinalProjectPemrograman.deps.json
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/bin/Debug/netcoreapp3.1/FinalProjectPemrograman.runtimeconfig.json
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/bin/Debug/netcoreapp3.1/FinalProjectPemrograman.runtimeconfig.dev.json
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/bin/Debug/netcoreapp3.1/FinalProjectPemrograman.dll
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/bin/Debug/netcoreapp3.1/FinalProjectPemrograman.pdb
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.csprojAssemblyReference.cache
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.AssemblyInfoInputs.cache
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.AssemblyInfo.cs
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.csproj.CoreCompileInputs.cache
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.dll
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.pdb
+/Users/ham/Projects/FinalProjectPemrograman/FinalProjectPemrograman/obj/Debug/netcoreapp3.1/FinalProjectPemrograman.genruntimeconfig.cache
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.exe
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.deps.json
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.json
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.dev.json
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csprojAssemblyReference.cache
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfoInputs.cache
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfo.cs
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csproj.CoreCompileInputs.cache
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+C:\Users\ARY BAYU NURWICAKSON\Downloads\FinalProjectPemrograman (1)\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.genruntimeconfig.cache
